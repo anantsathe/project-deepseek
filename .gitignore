@@ -1,0 +1,33 @@
+# Ignore directories
+# Ignore sensitive and large files
+
+
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+.env/
+data/
+.git/
+.vercel/
+discourse_data/
+discourse_api_data/
+
+# Ignore files
+*.pyc
+tds_pages_md/
+*.zip
+.env
+preprocess.py
+*.pyc
+.DS_Storevenv/
+.DS_Store
+*.log
+
+
+
+
+
+
+.vercel

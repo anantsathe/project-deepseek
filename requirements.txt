@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai>=1.0.0
+python-dotenv
+requests
+beautifulsoup4
+markdown
+
+argparse>=1.4.0
