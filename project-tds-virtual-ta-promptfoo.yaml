@@ -4,7 +4,9 @@ providers:
   - id: https
     config:
       #url: https://tds-virtual-q60zwpdir-anant-sathes-projects.vercel.app/api/
-      url: https://tds-virtual-281bbzo6g-anant-sathes-projects.vercel.app/api/
+      #url: https://tds-virtual-281bbzo6g-anant-sathes-projects.vercel.app/api/
+      #url:https://project-deepseek-git-main-anant-sathes-projects.vercel.app/api/
+      url:https://project-deepseek-3s6i-ksahmjb5g-anant-sathes-projects.vercel.app/api/
       method: POST
       headers:
         Content-Type: application/json
